@@ -98,7 +98,7 @@ Here are some examples of using the Email Sender Tool:
 
 For any issues, bugs, or feature requests, please contact Md Kaif at kaif.mth@gmail.com or call +91 600 369 0840.
 
-### License:
+## License
 
 This Email Sender Tool is licensed under the [MIT License](https://opensource.org/licenses/MIT).
 
