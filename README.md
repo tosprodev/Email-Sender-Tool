@@ -1,6 +1,6 @@
 **Email Sender Tool**
 
-**Version:** 1.0
+**Version:** 1.2
 
 **Developer:** Md Kaif
 
